@@ -1,7 +1,7 @@
 //import { useState } from 'react'
 import { DataList } from "./components/DataList"
 
-function App() {
+const App: React.FC = () =>{
 
   return (
     <div style={{ padding: "1rem", fontFamily: "sans-serif"}}>
